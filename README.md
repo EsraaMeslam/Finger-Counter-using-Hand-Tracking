@@ -16,9 +16,7 @@
    
 
 ## Installation
-Clone the repository:<be>
-git clone https://github.com/yourusername/finger-counter.git<br>
-cd finger-counter<be>
+
         
 #### Create a virtual environment 
 python -m venv venv.<br>
