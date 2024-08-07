@@ -2,19 +2,17 @@
 
 <p>This project is a real-time finger-counting application that utilizes computer vision and machine learning techniques to detect and count the number of fingers displayed in front of a camera. It leverages OpenCV for image processing and MediaPipe for hand detection and tracking.</p>
     
-## Features
-   
-    <li>Real-time finger detection and counting using a webcam.
-        <li>Displays corresponding images based on the number of detected fingers.
-        <li>Simple and intuitive user interface.
+## Features   
+1-Real-time finger detection and counting using a webcam.
+2-Displays corresponding images based on the number of detected fingers.
+3-Simple and intuitive user interface.
     
 
 ## Requirements
-    
-        <li>Python 3.x</li>
-        <li>OpenCV</li>
-        <li>MediaPipe</li>
-        <li>NumPy </li>
+--Python 3.x
+--OpenCV
+--MediaPipe
+--NumPy 
    
 
 ## Installation
