@@ -4,9 +4,9 @@
     
 ## Features
    
-        <li>Real-time finger detection and counting using a webcam.</li>
-        <li>Displays corresponding images based on the number of detected fingers.</li>
-        <li>Simple and intuitive user interface.</li>
+    <li>Real-time finger detection and counting using a webcam.
+        <li>Displays corresponding images based on the number of detected fingers.
+        <li>Simple and intuitive user interface.
     
 
 ## Requirements
